@@ -20,5 +20,5 @@ The examples are intended to demonstrate how different neural network architectu
 ## Notes
 
 * Most code is provided as **Jupyter Notebook (`.ipynb`) files**.
-* The repository focuses on **source code and practical implementation** rather than serving as a collection of theoretical notes or PDFs.
+* The repository focuses on **source code and practical implementation** rather than serving as a collection of theoretical lectures or notes.
 * The examples progress from basic neural network concepts toward more advanced Deep Learning architectures.
